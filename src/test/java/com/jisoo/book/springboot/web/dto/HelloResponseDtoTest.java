@@ -1,4 +1,4 @@
-package com.jisoo.book.web.dto;
+package com.jisoo.book.springboot.web.dto;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.Test;

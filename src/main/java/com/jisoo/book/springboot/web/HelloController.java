@@ -1,6 +1,6 @@
-package com.jisoo.book.web;
+package com.jisoo.book.springboot.web;
 
-import com.jisoo.book.web.dto.HelloResponseDto;
+import com.jisoo.book.springboot.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

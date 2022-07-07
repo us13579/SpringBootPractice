@@ -1,4 +1,4 @@
-package com.jisoo.book.web;
+package com.jisoo.book.springboot.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
